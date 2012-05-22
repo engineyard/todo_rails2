@@ -10,6 +10,7 @@ platform :ruby do
   gem 'pg'
   gem 'sqlite3' 
   gem 'unicorn'
+  gem 'puma'
 end
 
 platforms :jruby do
