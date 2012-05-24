@@ -6,7 +6,7 @@ gem 'simple_form', '1.0.2'
 gem 'ruby-prof'
 
 platform :ruby do
-  gem 'mysql2', '~> 0.2.7'
+  gem 'mysql'
   gem 'pg'
   gem 'sqlite3' 
   gem 'unicorn'
